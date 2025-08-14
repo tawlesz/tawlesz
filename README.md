@@ -8,10 +8,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZlZ2lsenlzMTZqZjM0ZDB3aTd4MzRzNWE5bDI1N2k3bHhwMDF0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
-
-###
-
 <h2 align="left">Techs</h2>
 
 ###
