@@ -1,63 +1,82 @@
-<h2 align="left">About Me</h2>
+<div align="center">
 
-###
+<!-- TYPING HERO -->
 
-<br clear="both">
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=32&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Thalles+Fernando;Computing+Student;%22Creativity+requires+courage.%22+—+Henri+Matisse" />
 
-<p align="left">Hello! i'm Thalles Fernando<br><br>I am a bachelor's student in computing and systems development who values creativity and is curious to learn more and more.</p>
+<br/>
 
-###
+<p align="center">
+  <em>Building my journey in technology 🚀</em>
+</p>
 
-<h2 align="left">Techs</h2>
+<br/>
 
-###
+<a href="https://www.linkedin.com/in/thalles-nonato-6b6b8a233" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
-###
+---
 
-<h2 align="left">Stats</h2>
+## 🧭 About Me
 
-###
+```ts
+const thalles = {
+  role: "Computing Student",
+  location: "Brazil",
+  
+  currentlyLearning: ["React", "Java", "Python"],
+  interests: ["Technology", "Creativity", "Problem Solving"],
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tawlesz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt2&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tawlesz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt2&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tawlesz&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  mindset: "Creativity requires courage.",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,java,py,git,github,ai" />
 </div>
 
-###
+---
 
-<h2 align="left">Social Media</h2>
+## 📊 GitHub Stats
 
-###
+<div align="center">
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/thalles-nonato-6b6b8a233" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/tawlesz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKjRVkmnpjpWcxcgtVtnKJKbnsXNBvZptRvHgwdMKCfVKVZkzhwxzLHkspBPlbDGJCPfdfq" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=tawlesz&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawlesz&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+
 </div>
 
-###
+---
+
+## 📈 Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tawlesz&theme=github-dark&hide_border=true"/>
+</div>
+
+---
+
+## 🌐 Portfolio
+
+🔗 Check out my projects here:
+👉 https://github.com/tawlesz
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&size=18&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=%22Creativity+requires+courage.%22" />
+
+</div>
