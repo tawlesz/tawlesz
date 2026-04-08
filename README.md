@@ -2,7 +2,7 @@
 
 <!-- TYPING HERO -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=32&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Thalles+Fernando;Building+my+journey+in+technology;Creativity+requires+courage." />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=32&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+✌️+I'm+Thalles+Fernando;Building+my+journey+in+technology;Creativity+requires+courage." />
 
 <br/>
 
