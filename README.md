@@ -26,7 +26,7 @@
 
 ## 🧭 About Me
 
-<img src="./terminal.svg" width="100%" />
+![terminal](./terminal.svg)
 
 ---
 
