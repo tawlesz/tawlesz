@@ -1,12 +1,10 @@
-<svg width="100%" height="320" viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="320" viewBox="0 0 800 320" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
-    <!-- sombra -->
     <filter id="shadow">
       <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.7"/>
     </filter>
 
-    <!-- glow cursor -->
     <filter id="glow">
       <feGaussianBlur stdDeviation="2" result="blur"/>
       <feMerge>
@@ -16,8 +14,9 @@
     </filter>
   </defs>
 
-  <!-- FUNDO (AGORA VISÍVEL) -->
-  <rect x="0" y="0" width="800" height="320" rx="16"
+  <!-- FUNDO (AGORA EXPANDE TOTAL) -->
+  <rect x="0" y="0" width="100%" height="320"
+        rx="16"
         fill="#0a0f1a"
         stroke="#58A6FF"
         stroke-width="2"
@@ -65,8 +64,8 @@
     projects · hackathons
   </text>
 
-  <!-- CURSOR (AGORA VISÍVEL MESMO) -->
-  <rect x="380" y="260" width="12" height="20" fill="#58A6FF" filter="url(#glow)">
+  <!-- CURSOR (AGORA CERTO NO FINAL DA LINHA) -->
+  <rect x="245" y="262" width="10" height="16" fill="#58A6FF" filter="url(#glow)">
     <animate attributeName="opacity"
              values="1;0;1"
              dur="0.8s"
