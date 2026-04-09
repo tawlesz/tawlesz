@@ -26,7 +26,7 @@
 
 ## 🧭 About Me
 
-![terminal](./assets/terminal.svg)
+![terminal](./terminal.svg)
 
 ---
 
