@@ -14,8 +14,8 @@
     </filter>
   </defs>
 
-  <!-- FUNDO (AGORA EXPANDE TOTAL) -->
-  <rect x="0" y="0" width="100%" height="320"
+  <!-- FUNDO (EXPANDE TOTAL) -->
+  <rect x="0" y="0" width="100%" height="100%"
         rx="16"
         fill="#0a0f1a"
         stroke="#58A6FF"
@@ -64,8 +64,8 @@
     projects · hackathons
   </text>
 
-  <!-- CURSOR (AGORA CERTO NO FINAL DA LINHA) -->
-  <rect x="245" y="262" width="10" height="16" fill="#58A6FF" filter="url(#glow)">
+  <!-- CURSOR (AGORA NO FINAL DA LINHA) -->
+  <rect x="260" y="262" width="10" height="16" fill="#58A6FF" filter="url(#glow)">
     <animate attributeName="opacity"
              values="1;0;1"
              dur="0.8s"
