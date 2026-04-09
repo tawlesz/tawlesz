@@ -1,16 +1,26 @@
 <svg width="100%" height="320" viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
+    <!-- sombra -->
     <filter id="shadow">
-      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000" flood-opacity="0.6"/>
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.7"/>
+    </filter>
+
+    <!-- glow cursor -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
     </filter>
   </defs>
 
-  <!-- FUNDO -->
+  <!-- FUNDO (AGORA VISÍVEL) -->
   <rect x="0" y="0" width="800" height="320" rx="16"
-        fill="#0b0f14"
-        stroke="#6e7681"
-        stroke-width="1.2"
+        fill="#0a0f1a"
+        stroke="#58A6FF"
+        stroke-width="2"
         filter="url(#shadow)"/>
 
   <!-- HEADER -->
@@ -24,7 +34,7 @@
   </text>
 
   <!-- IDENTITY -->
-  <text x="20" y="105" fill="#8b949e" font-family="monospace" font-size="13">
+  <text x="20" y="105" fill="#9da7b3" font-family="monospace" font-size="13">
     # identity
   </text>
   <text x="40" y="125" fill="#ffffff" font-family="monospace" font-size="14">
@@ -32,7 +42,7 @@
   </text>
 
   <!-- EDUCATION -->
-  <text x="20" y="155" fill="#8b949e" font-family="monospace" font-size="13">
+  <text x="20" y="155" fill="#9da7b3" font-family="monospace" font-size="13">
     # education
   </text>
   <text x="40" y="175" fill="#ffffff" font-family="monospace" font-size="14">
@@ -40,7 +50,7 @@
   </text>
 
   <!-- STACK -->
-  <text x="20" y="205" fill="#8b949e" font-family="monospace" font-size="13">
+  <text x="20" y="205" fill="#9da7b3" font-family="monospace" font-size="13">
     # stack
   </text>
   <text x="40" y="225" fill="#ffffff" font-family="monospace" font-size="14">
@@ -48,18 +58,18 @@
   </text>
 
   <!-- LOOKING -->
-  <text x="20" y="255" fill="#8b949e" font-family="monospace" font-size="13">
+  <text x="20" y="255" fill="#9da7b3" font-family="monospace" font-size="13">
     # looking_for
   </text>
   <text x="40" y="275" fill="#7ee787" font-family="monospace" font-size="14">
     projects · hackathons
   </text>
 
-  <!-- CURSOR -->
-  <rect x="300" y="262" width="9" height="16" fill="#58A6FF">
+  <!-- CURSOR (AGORA VISÍVEL MESMO) -->
+  <rect x="380" y="260" width="12" height="20" fill="#58A6FF" filter="url(#glow)">
     <animate attributeName="opacity"
              values="1;0;1"
-             dur="1s"
+             dur="0.8s"
              repeatCount="indefinite"/>
   </rect>
 
