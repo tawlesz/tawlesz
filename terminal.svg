@@ -1,44 +1,56 @@
-<svg width="800" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="320" viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg">
 
-  <rect width="800" height="300" rx="12" fill="#0d1117"/>
+  <!-- FUNDO COM BORDA -->
+  <rect x="0" y="0" width="800" height="320" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="1.2"/>
 
-  <!-- bolinhas -->
+  <!-- HEADER -->
   <circle cx="30" cy="25" r="6" fill="#ff5f56"/>
   <circle cx="50" cy="25" r="6" fill="#ffbd2e"/>
   <circle cx="70" cy="25" r="6" fill="#27c93f"/>
 
-  <!-- comando -->
+  <!-- COMANDO -->
   <text x="20" y="70" fill="#58A6FF" font-family="monospace" font-size="16">
     $ cat thalles.profile
   </text>
 
-  <!-- conteúdo -->
-  <text x="20" y="110" fill="#8b949e" font-family="monospace" font-size="13">
+  <!-- IDENTITY -->
+  <text x="20" y="105" fill="#8b949e" font-family="monospace" font-size="13">
     # identity
   </text>
-  <text x="40" y="130" fill="#ffffff" font-family="monospace" font-size="14">
+  <text x="40" y="125" fill="#ffffff" font-family="monospace" font-size="14">
     19 · Petrolina, PE — Brazil
   </text>
 
-  <text x="20" y="160" fill="#8b949e" font-family="monospace" font-size="13">
+  <!-- EDUCATION -->
+  <text x="20" y="155" fill="#8b949e" font-family="monospace" font-size="13">
     # education
   </text>
-  <text x="40" y="180" fill="#ffffff" font-family="monospace" font-size="14">
+  <text x="40" y="175" fill="#ffffff" font-family="monospace" font-size="14">
     Computing Degree · Systems Development
   </text>
 
-  <text x="20" y="210" fill="#8b949e" font-family="monospace" font-size="13">
+  <!-- STACK -->
+  <text x="20" y="205" fill="#8b949e" font-family="monospace" font-size="13">
     # stack
   </text>
-  <text x="40" y="230" fill="#ffffff" font-family="monospace" font-size="14">
+  <text x="40" y="225" fill="#ffffff" font-family="monospace" font-size="14">
     React · Java · Python · Data · Open Source
   </text>
 
-  <text x="20" y="260" fill="#8b949e" font-family="monospace" font-size="13">
+  <!-- LOOKING -->
+  <text x="20" y="255" fill="#8b949e" font-family="monospace" font-size="13">
     # looking_for
   </text>
-  <text x="40" y="280" fill="#7ee787" font-family="monospace" font-size="14">
+  <text x="40" y="275" fill="#7ee787" font-family="monospace" font-size="14">
     projects · hackathons
   </text>
+
+  <!-- CURSOR PISCANDO -->
+  <rect x="300" y="262" width="9" height="16" fill="#ffffff">
+    <animate attributeName="opacity"
+             values="1;0;1"
+             dur="1s"
+             repeatCount="indefinite"/>
+  </rect>
 
 </svg>
