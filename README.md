@@ -16,7 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalles-nonato-6b6b8a233/)
 &nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=linus&color=0d1b2a&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/tawlesz)
+[![Profile Views](https://komarev.com/ghpvc/?username=tawlesz&color=0d1b2a&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/tawlesz)
 &nbsp;
 ![Open to Work](https://img.shields.io/badge/🟢_Open_to_Connections-0d1b2a?style=for-the-badge)
 
